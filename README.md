@@ -1,3 +1,5 @@
+**Altin Kalludra** · [Download CV (PDF)](https://github.com/ulasmango-cmd/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
+
 <div align="center">
 
 # SocialMedia Manager
@@ -145,7 +147,7 @@ The complete application is designed for a persistent runtime: a long-lived Node
 
 ## Ownership
 
-Built by **Flamur** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
+Built by **Altin Kalludra** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
 
 - GitHub profile: [github.com/ulasmango-cmd](https://github.com/ulasmango-cmd)
 - Live demo: [socialmedia-manager-eight.vercel.app](https://socialmedia-manager-eight.vercel.app)
