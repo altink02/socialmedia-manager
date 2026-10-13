@@ -147,9 +147,9 @@ The complete application is designed for a persistent runtime: a long-lived Node
 
 ## Ownership
 
-Built by **Altin Kalludra** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
+Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
 
-- GitHub profile: [github.com/ulasmango-cmd](https://github.com/ulasmango-cmd)
+- GitHub profile: [Altin Kalludra](https://github.com/ulasmango-cmd)
 - Live demo: [socialmedia-manager-eight.vercel.app](https://socialmedia-manager-eight.vercel.app)
 - Private production source: [ulasmango-cmd/socialmedia-manager-source](https://github.com/ulasmango-cmd/socialmedia-manager-source) *(private)*
 
