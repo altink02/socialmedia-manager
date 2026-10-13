@@ -1,4 +1,4 @@
-**Altin Kalludra** · [Download CV (PDF)](https://github.com/ulasmango-cmd/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
+**Altin Kalludra** · [All projects](https://github.com/altink02/fxquant-portfolio/blob/main/PORTFOLIO.md) · [Download CV (PDF)](https://github.com/altink02/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
 
 <div align="center">
 
@@ -147,11 +147,11 @@ The complete application is designed for a persistent runtime: a long-lived Node
 
 ## Ownership
 
-Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
+Built by **[Altin Kalludra](https://github.com/altink02)**.
 
-- GitHub profile: [Altin Kalludra](https://github.com/ulasmango-cmd)
+- GitHub profile: [Altin Kalludra](https://github.com/altink02)
 - Live demo: [socialmedia-manager-eight.vercel.app](https://socialmedia-manager-eight.vercel.app)
-- Private production source: [ulasmango-cmd/socialmedia-manager-source](https://github.com/ulasmango-cmd/socialmedia-manager-source) *(private)*
+- Private production source: [altink02/socialmedia-manager-source](https://github.com/altink02/socialmedia-manager-source) *(private)*
 
 ---
 
